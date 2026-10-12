@@ -6,3 +6,5 @@ here is the schematic, i organized it into boards:
 The bottom connects to the Arduino Uno R3, while the top are the sockets to connect to R3 pins (except 5,6,9,10 which are already connected to the motors) and the OUT + EEP + ULT + VCC + GND pins of the motor driver
 <img width="953" height="324" alt="image" src="https://github.com/user-attachments/assets/2780cdfd-0176-4d8b-9bd7-f58f1ad09a67" />
 
+*also some terms relating to Half Life Hack Club YSWS
+  I am currently collab with PCBWAY so they sponsor (and pay partially) for my projects, so I will not need funding from Hack Club
