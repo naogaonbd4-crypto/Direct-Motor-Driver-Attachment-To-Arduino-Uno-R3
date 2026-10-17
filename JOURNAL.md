@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-12T03:40:02.237Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvsaj8400k801osevfxonbg). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > exactly what the name says, meant to be compact
 
